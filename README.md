@@ -1,4 +1,4 @@
 # animated-telegram
 
-Projet de Théorie des Langages Automates
-Fichiers source donnés
+# Projet de Théorie des Langages Automates
+# Fichiers source donnés
